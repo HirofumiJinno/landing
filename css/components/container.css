@@ -1,0 +1,25 @@
+.banner-container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.container{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1000px) {
+  .container {
+    width: 900px;
+  }
+}
+@media (max-width: 950px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (max-width: 750px) {
+  .container {
+    width: 500px;
+  }
+}

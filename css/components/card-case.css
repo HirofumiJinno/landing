@@ -1,0 +1,12 @@
+.card-case {
+  padding: 16px;
+  box-shadow: 1px 1px 3px rgba(10,10,10,0.5);
+  width: 250px;
+  text-align: center;
+}
+
+.card-case img {
+  height: 88px;
+  width: 88px;
+  object-fit:scale-down;
+}
